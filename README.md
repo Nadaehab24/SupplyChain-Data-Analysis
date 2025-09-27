@@ -1,5 +1,6 @@
 # SupplyChain-Data-Analysis
 A project to clean, analyze, and forecast supply chain data, providing insights for decision makers using SQL, Python, and Tableau.
+
 ---
 
 ## Project Overview
@@ -20,13 +21,14 @@ This project aims to:
 
 ## Project Structure
 
+```
 SupplyChain-Data-Analysis/
 │
 ├── Week1_Build_Data_Model_Data_Cleaning_Preprocessing/
-│ ├── 1_Data_Upload/
-│ ├── 2_Data_Cleaning/
-│ ├── 3_Data_Model/
-│ └── 4_Documentation/
+│   ├── 1_Data_Upload/
+│   ├── 2_Data_Cleaning/
+│   ├── 3_Data_Model/
+│   └── 4_Documentation/
 │
 ├── Week2_Analysis_Questions_Phase/
 │
@@ -35,9 +37,7 @@ SupplyChain-Data-Analysis/
 ├── Week4_Visualization_Dashboard_Final_Presentation/
 │
 └── README.md
-
-yaml
-نسخ الكود
+```
 
 ---
 
