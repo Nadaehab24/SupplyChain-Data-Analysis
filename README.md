@@ -1,5 +1,6 @@
 # SupplyChain-Data-Analysis
 A project to clean, analyze, and forecast supply chain data, providing insights for decision makers using SQL, Python, and Tableau.
+---
 
 ## Project Overview
 This project aims to:
@@ -8,28 +9,81 @@ This project aims to:
 - Perform forecasting to predict future trends.
 - Create an interactive Tableau dashboard for visualization.
 
+---
+
 ## Tools Used
 - SQL
 - Python (pandas, Matplotlib, scikit-learn)
 - Tableau
 
+---
+
 ## Project Structure
-- **Week1_Build_Data_Model_Data_Cleaning_Preprocessing/**  
-  Data uploading, cleaning, and building the initial data model.
 
-- **Week2_Analysis_Questions_Phase/**  
-  Formulating and answering analysis questions based on the dataset.
+SupplyChain-Data-Analysis/
+│
+├── Week1_Build_Data_Model_Data_Cleaning_Preprocessing/
+│ ├── 1_Data_Upload/
+│ ├── 2_Data_Cleaning/
+│ ├── 3_Data_Model/
+│ └── 4_Documentation/
+│
+├── Week2_Analysis_Questions_Phase/
+│
+├── Week3_Forecasting_Questions_Phase/
+│
+├── Week4_Visualization_Dashboard_Final_Presentation/
+│
+└── README.md
 
-- **Week3_Forecasting_Questions_Phase/**  
-  Creating forecasting models and answering forecasting questions.
+yaml
+نسخ الكود
 
-- **Week4_Visualization_Dashboard_Final_Presentation/**  
-  Building a Tableau dashboard and preparing the final report and presentation.
+---
 
-## Deliverables
+## Week 1 - Build Data Model, Data Cleaning & Preprocessing
+**Tasks:**
+- Upload dataset.
+- Remove missing values and duplicates.
+- Correct data formats.
+- Build initial data model.
+
+**Deliverables:**
 - Cleaned dataset ready for analysis.
 - Data preprocessing notebook.
-- Analysis question answers and plots.
-- Forecasting results and plots.
+- Documentation of the cleaning process.
+
+---
+
+## Week 2 - Analysis Questions Phase
+**Tasks:**
+- Define analysis questions.
+- Query dataset using SQL.
+- Generate plots and insights using Python.
+
+**Deliverables:**
+- List of analysis questions.
+- Python notebooks containing analysis and visualizations.
+
+---
+
+## Week 3 - Forecasting Questions Phase
+**Tasks:**
+- Identify forecasting questions.
+- Apply forecasting models using Python.
+- Visualize forecasting results.
+
+**Deliverables:**
+- Forecasting questions and answers.
+- Plots showing predictions and trends.
+
+---
+
+## Week 4 - Visualization Dashboard & Final Presentation
+**Tasks:**
+- Create Tableau dashboard visualizing all answered questions.
+- Prepare final report and presentation.
+
+**Deliverables:**
 - Interactive Tableau dashboard.
-- Final report and presentation.
+- Final project report and presentation slides.
