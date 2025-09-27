@@ -35,8 +35,6 @@ SupplyChain-Data-Analysis/
 ├── Week3_Forecasting_Questions_Phase/
 │
 ├── Week4_Visualization_Dashboard_Final_Presentation/
-│
-└── README.md
 ```
 
 ---
