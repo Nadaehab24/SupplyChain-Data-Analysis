@@ -47,7 +47,7 @@ Each record includes information such as:
 - Duplicated records and inconsistent capitalization in text.  
 - Outliers in prices and areas (very high or very low values).  
 
-> 🧹 These problems will be fixed to make the data ready for accurate analysis and model training.
+>  These problems will be fixed to make the data ready for accurate analysis and model training.
 
 ---
 
@@ -116,5 +116,5 @@ By the end of the project, the following files will be delivered:
 - Jupyter Notebook (containing preprocessing, EDA, and ML sections)  
 - Power BI dashboard file (`.pbix`)  
 - Final project report (Markdown or PDF)  
-itHub: *[Your GitHub Profile Link]*  
+ 
 
